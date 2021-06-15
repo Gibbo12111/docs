@@ -1,5 +1,6 @@
 ---
 title: Installing Addons
+description: testing the things wow amzizng
 ---
 
 # Wow amazing
