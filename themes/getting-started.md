@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis vero, simil
 ```css
 body {
   background: red;
- }
- ```
+}
+```
  
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Incidunt, quis accusamus explicabo possimus dolorum reprehenderit deserunt animi sit cum laborum. Minima illo beatae sint laudantium unde ipsum voluptatum error accusantium id, quis commodi laborum animi labore maiores molestiae, tempore quisquam obcaecati deleniti quam! Repellendus, architecto?
